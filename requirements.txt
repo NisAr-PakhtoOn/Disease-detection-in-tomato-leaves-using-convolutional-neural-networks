@@ -1,4 +1,0 @@
-streamlit==0.84.0
-numpy==1.19.5
-pil
-tensorflow==0.9.0
